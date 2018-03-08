@@ -34,22 +34,22 @@ The following workloads including required and recommended components are instal
 
 * Universal Windows Platform development
 * .NET desktop development
-* Desktop development with C++
+* Desktop development with C++ :x:
 * ASP.NET and web development
 * Azure development
 * Node.js development
 * Data storage and processing
-* Data science and analytical applications *
-* Game development with Unity *
-* Linux development with C++ *
-* Game development with C++ *
-* Mobile development with C++ *
+* Data science and analytical applications * :x:
+* Game development with Unity * :x:
+* Linux development with C++ * :x:
+* Game development with C++ * :x:
+* Mobile development with C++ * :x:
 * Office/SharePoint development
 * Mobile development with .NET
 * .NET Core cross-platform development
-* Visual Studio extension development *
+* Visual Studio extension development * :x:
 * Python development *
-* Mobile development with JavaScript *
+* Mobile development with JavaScript * :x:
 
 In addition the following optional components are installed:
 
@@ -126,7 +126,7 @@ _Environment:_
 
 _Version:_ 4.7.02558
 
-## Azure Service Fabric
+## Azure Service Fabric :x:
 
 _SDK Version:_ 3.0.467.9494<br/>
 _Runtime Version:_ 6.1.467.9494
@@ -137,11 +137,11 @@ _Runtime Version:_ 6.1.467.9494
 _Environment:_
 * PATH: contains location of python.exe
 
-#### Python 2.7.14
+#### Python 2.7.14 :x:
 
 _Location:_ C:\Python27amd64
 
-## Android SDK Build Tools
+## Android SDK Build Tools :x:
 
 #### 27.0.1
 
@@ -188,7 +188,7 @@ _Location:_ C:\Program Files (x86)\Android\android-sdk\build-tools\19.1.0
 _Location:_ C:\Program Files (x86)\Android\android-sdk\build-tools\17.0.0
 
 
-## Android SDK Platforms
+## Android SDK Platforms :x:
 
 #### 8.1.0 (API 27)
 
@@ -276,14 +276,14 @@ _Environment:_
 * PATH: contains location of git-lfs.exe
 * GIT_LFS_PATH: location of git-lfs.exe
 
-## Go
+## Go :x:
 
 _Version:_ 1.9.3<br/>
 _Environment:_
 * PATH: contains location of go.exe
 * GOROOT: root directory of the Go installation
 
-## Subversion
+## Subversion :x:
 
 _Version:_ 1.8.15<br/>
 _Environment:_
@@ -313,7 +313,7 @@ _Version:_ 5.6.0<br/>
 _Environment:_
 * PATH: contains location of npm.cmd
 
-## Java Development Kit
+## Java Development Kit :x:
 
 #### 1.8.0_162
 
@@ -325,7 +325,7 @@ _Environment:_
 
 _Location:_ C:\Program Files\Java\jdk-9.0.4
 
-## Ant
+## Ant :x:
 
 _Version:_ 1.10.1<br/>
 _Environment:_
@@ -333,20 +333,20 @@ _Environment:_
 * ANT_HOME: location of ant.cmd
 * COBERTURA_HOME: location of cobertura-2.1.1.jar
 
-## Maven
+## Maven :x:
 
 _Version:_ 3.5.2<br/>
 _Environment:_
 * PATH: contains location of mvn.bat
 * M2_HOME: Maven installation root
 
-## Gradle
+## Gradle :x:
 
 _Version:_ 4.5.1<br/>
 _Environment:_
 * PATH: contains location of gradle
 
-## Cmake
+## Cmake :x:
 
 _Version:_ 3.10.2<br/>
 _Environment:_
