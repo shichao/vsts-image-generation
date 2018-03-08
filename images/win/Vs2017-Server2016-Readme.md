@@ -389,7 +389,7 @@ _Runtime:_
 * 1.0.5 C:\Program Files\dotnet\shared\Microsoft.NETCore.App\1.0.5
 * 1.0.4 C:\Program Files\dotnet\shared\Microsoft.NETCore.App\1.0.4
 
-## Mysql
+## Mysql :x:
 
 _Version:_ 5.7.21.0<br/>
 _Environment:_
